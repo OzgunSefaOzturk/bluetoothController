@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bluetooth_controller</string>
+    <dimen name="icon_width">80dp</dimen>
+    <dimen name="icon_height">80dp</dimen>
+</resources>
